@@ -15,5 +15,7 @@ En esta primer seccion nos encontraremos con tres scripts de python, para la cre
 
 En esta seccion nos encontraremos con tres scripts de powershell, y practicamente lo que nos ayudan a hacer serian distintas funciones como ver las direcciones ip, escanear direcciones ip, filtrar direcciones ip entre otras cosas, y todo esto se creo con la finalidad de ver los puertos que este abiertos, asi pudiendo vulnerarlos y sacar el mayor provecho de estos mismos.
 
+[ScriptsPowerShell](https://github.com/BR4ND0NFL0RES/PIALABPROGRA/blob/44e991138aeaaf678369dc1d2561df4cef65711e/ScriptingPowerShell/PowerShell.md)
+
 
 
