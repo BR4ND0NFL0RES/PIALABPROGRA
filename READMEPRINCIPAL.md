@@ -37,7 +37,7 @@ En esta seccion nos encontraremos con 2 scripts que nos ayudaran a realizar web 
 
 **Seccion 6: Comunicacion FTP**
 Esta seccion contara con un solo scrip, esto debido a problemas tecnicos fuera de mi alcance, pero lo que se intenta hacer en esta seccion es crear scripts que nos ayuden a transferir archivos, todo esto con la finalidad de permitirnos el facil acceso a los archivos entre equipos de computo.
-[Scrip comunicacion FTP]()
+[Scrip comunicacion FTP](https://github.com/BR4ND0NFL0RES/PIALABPROGRA/blob/dd93eee932e3274c8cddf8216e98b3aa9c2b117a/comunicacionFTP/FTP.md)
 
 
 
