@@ -9,5 +9,5 @@ Este repossitorio de github tendra como finalidad visualizar, explorar y probar 
 
 En esta primer seccion nos encontraremos con tres scripts, para la creacion de estos scripts utilizamos una herramienta que se llama postman, que nos ayudo en la documentacion y a realizar solicitudaes a un api gratutio de pokemon, todo esto para realizar pruebas,Todas estas herramientas y scripts lo hice con la finalidad de probar el manejo de las apis, asi como tambien para trtar de comprender como es que funcionan todo esto de las peticiones a sitios web.
 
-[ScriptsManejoapi´s]()
+[ScriptsManejoapi´s](https://github.com/BR4ND0NFL0RES/PIALABPROGRA/blob/fe518fbae95457bbd8d1953d343a45a7b59e09c1/ManejoApi%C2%B4s/Api.md)
 
