@@ -49,7 +49,7 @@ En esta seccion se contara con varios scripts que nos ayudaran al escaneo de pue
 Essta seccion consta de solo un scrip que nos ayudara al envio de correos desde python todo esto con distintos modulos y herrmanientass que podemoss utilizar en python IDLE
 la finalidad que tiene esta seccion es visualizar como podemos enviar correos desde nuestro scrip de python, asi aprovchando al maximo todas las herramientas que nos ofrece python.
 
-[Script Envio de correos]()
+[Script Envio de correos](https://github.com/BR4ND0NFL0RES/PIALABPROGRA/blob/5b463d4eea010fd79c8352831abf4a49cb9f2a66/EnvioCorreos/correos.md)
 
 
 
