@@ -17,5 +17,9 @@ En esta seccion nos encontraremos con tres scripts de powershell, y practicament
 
 [ScriptsPowerShell](https://github.com/BR4ND0NFL0RES/PIALABPROGRA/blob/44e991138aeaaf678369dc1d2561df4cef65711e/ScriptingPowerShell/PowerShell.md)
 
+**Seccion 3:Scripting en Bash**
+
+En esta seccion nos encotraremos con 6 scripts de bash, que nos ayudaran a distintas funciones como por ejemplo a combinar comandos, escanear puertos, conocer variables de ambiente, entre otras cosas, y todo esto con la finalidad de adentrarnos un poco mas al mundo de la ciberseguridad pero sobre todo para conocer un poco mas mas los sistemas linux en general.
+
 
 
