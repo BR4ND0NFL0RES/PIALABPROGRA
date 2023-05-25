@@ -27,6 +27,14 @@ En esta seccion nos encotraremos con 6 scripts de bash, que nos ayudaran a disti
 
 En esta seccion nos encotraremos con 3 scripts dos de ellos seran de python, el otro sera de power shell, podremos encontrar scripts que nos ayuden a encriptar asi como tambien a desencriptar. tambien utilizaaremos base64 para coddificar una imagen entre otras cosas, todo esto con la finalidad de adentrarnos un poco mas al area de la proteccion de informacion asi como tambien a aprender distintos metodos para encriptar.
 
+[Scripts Encoding & Decoding](https://github.com/BR4ND0NFL0RES/PIALABPROGRA/blob/2ef64e48557eec10757053a33956c725e701f282/Encoding%26decoding/Encode.md)
+
+
+**Seccion 5: Web Scrapping**
+
+En esta seccion nos encontraremos con 2 scripts que nos ayudaran a realizar web scrapping, pero que es el web scrapping, bueno este se podria definir como la obtencion dde infromacion de algun sitio o pagina web y todo esto se hace con la finalidad de recabar informacion especifica que nos pueda ayudar con ciertas tareas en el area de la ciberseguridad. 
+
+[Scripts Web Scrapping]()
 
 
 
