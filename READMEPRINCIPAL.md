@@ -38,12 +38,18 @@ En esta seccion nos encontraremos con 2 scripts que nos ayudaran a realizar web 
 **Seccion 6: Comunicacion FTP**
 Esta seccion contara con un solo scrip, esto debido a problemas tecnicos fuera de mi alcance, pero lo que se intenta hacer en esta seccion es crear scripts que nos ayuden a transferir archivos, todo esto con la finalidad de permitirnos el facil acceso a los archivos entre equipos de computo.
 
-[Scrip comunicacion FTP](https://github.com/BR4ND0NFL0RES/PIALABPROGRA/blob/dd93eee932e3274c8cddf8216e98b3aa9c2b117a/comunicacionFTP/FTP.md)
+[Script comunicacion FTP](https://github.com/BR4ND0NFL0RES/PIALABPROGRA/blob/dd93eee932e3274c8cddf8216e98b3aa9c2b117a/comunicacionFTP/FTP.md)
 
 **Seccion 7:Escaneo de puertos**
 En esta seccion se contara con varios scripts que nos ayudaran al escaneo de puertos, enfocados en pequeños scripts que nos ayudaran a esto mismo, la finalidad que tienen estos scripts es ayudarnos a desarrollar nuestros conocimientos acerca de las herramientas para escanear puertos, asi como tambien a mejorar en posibles errores que se nos presssenten al momento de realizar los scripts.
 
-[Scrip Escaneo de puerto]()
+[Scripts Escaneo de puerto](https://github.com/BR4ND0NFL0RES/PIALABPROGRA/blob/ab23b25e39dbc9a743aed94219b21d9b91323401/Escaneodepuertos/Escaneo.md)
+
+**Seccion 8:Envio de correos**
+Essta seccion consta de solo un scrip que nos ayudara al envio de correos desde python todo esto con distintos modulos y herrmanientass que podemoss utilizar en python IDLE
+la finalidad que tiene esta seccion es visualizar como podemos enviar correos desde nuestro scrip de python, asi aprovchando al maximo todas las herramientas que nos ofrece python.
+
+[Script Envio de correos]()
 
 
 
