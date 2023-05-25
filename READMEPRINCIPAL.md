@@ -23,6 +23,11 @@ En esta seccion nos encotraremos con 6 scripts de bash, que nos ayudaran a disti
 
 [ScriptsBash](https://github.com/BR4ND0NFL0RES/PIALABPROGRA/blob/25e05a9e162ff6b3c3a8a979dbce939622e80492/ScriptingBash/bash.md)
 
+**Seccion 4:Encoding & Decoding**
+
+En esta seccion nos encotraremos con 3 scripts dos de ellos seran de python, el otro sera de power shell, podremos encontrar scripts que nos ayuden a encriptar asi como tambien a desencriptar. tambien utilizaaremos base64 para coddificar una imagen entre otras cosas, todo esto con la finalidad de adentrarnos un poco mas al area de la proteccion de informacion asi como tambien a aprender distintos metodos para encriptar.
+
+
 
 
 
