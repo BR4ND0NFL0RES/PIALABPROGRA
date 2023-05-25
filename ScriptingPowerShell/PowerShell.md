@@ -2,6 +2,7 @@
 
 
 El primer script llamado scan_alivev1.ps1 practicamente nos ayuda a hacer un escaneo de puertos simple, todo esto con la ayuda de nuestra sub red.
+
 [scan_alivev1.ps1](https://github.com/BR4ND0NFL0RES/PIALABPROGRA/blob/ce08a53bcaecd31fb2ca694dbfe027f53380f744/ScriptingPowerShell/scan_alivevv1.ps1)
 
 
