@@ -29,13 +29,15 @@ En esta seccion nos encotraremos con 3 scripts dos de ellos seran de python, el 
 
 [Scripts Encoding & Decoding](https://github.com/BR4ND0NFL0RES/PIALABPROGRA/blob/2ef64e48557eec10757053a33956c725e701f282/Encoding%26decoding/Encode.md)
 
-
 **Seccion 5: Web Scrapping**
 
 En esta seccion nos encontraremos con 2 scripts que nos ayudaran a realizar web scrapping, pero que es el web scrapping, bueno este se podria definir como la obtencion dde infromacion de algun sitio o pagina web y todo esto se hace con la finalidad de recabar informacion especifica que nos pueda ayudar con ciertas tareas en el area de la ciberseguridad. 
 
 [Scripts Web Scrapping](https://github.com/BR4ND0NFL0RES/PIALABPROGRA/blob/fccb3765d3bc4d1f8e27f2c2e0c79dc87793c71c/WebScrapping/WebScraping.md)
 
+**Seccion 6: Comunicacion FTP**
+Esta seccion contara con un solo scrip, esto debido a problemas tecnicos fuera de mi alcance, pero lo que se intenta hacer en esta seccion es crear scripts que nos ayuden a transferir archivos, todo esto con la finalidad de permitirnos el facil acceso a los archivos entre equipos de computo.
+[Scrip comunicacion FTP]()
 
 
 
