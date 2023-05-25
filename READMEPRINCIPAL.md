@@ -1,5 +1,5 @@
 # PIA LABORATORIO DE PROGRAMACION PARA CIBERSEGURIDAD.
-**En este repositorio de github podremos encontrar multiples modulos, de tal manera que nos pueden ayudar en distintas tareas en el area de la ciberseguridad y tecnologia.Contendra distintas secciones y seran un total de nueve secciones, cada una de ellas contendran distintos scripts con distintas funcionalidades. 
+**En este repositorio de github podremos encontrar multiples modulos, de tal manera que nos pueden ayudar en distintas tareas en el area de la ciberseguridad y tecnologia.Contendra distintas secciones y seran un total de ocho secciones, cada una de ellas contendran distintos scripts con distintas funcionalidades. 
 Este repositorio de github tendra como finalidad visualizar, explorar y probar distintos scripts que nos pueden ayudar en el ambito universitario e incluso en situaciones mas  cotidianas en las que ocupemos este tipo de tecnologia.**
 
 **Alumno:Brandon Yahir Flores García  Matricula:2037084**
