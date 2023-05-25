@@ -34,7 +34,7 @@ En esta seccion nos encotraremos con 3 scripts dos de ellos seran de python, el 
 
 En esta seccion nos encontraremos con 2 scripts que nos ayudaran a realizar web scrapping, pero que es el web scrapping, bueno este se podria definir como la obtencion dde infromacion de algun sitio o pagina web y todo esto se hace con la finalidad de recabar informacion especifica que nos pueda ayudar con ciertas tareas en el area de la ciberseguridad. 
 
-[Scripts Web Scrapping]()
+[Scripts Web Scrapping](https://github.com/BR4ND0NFL0RES/PIALABPROGRA/blob/fccb3765d3bc4d1f8e27f2c2e0c79dc87793c71c/WebScrapping/WebScraping.md)
 
 
 
